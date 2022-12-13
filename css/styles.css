@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    border: 1px solid black;
+        border-radius: 5px;
+        ;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+a {
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    color: blue;
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    background: rgb(113, 158, 255);
+}
